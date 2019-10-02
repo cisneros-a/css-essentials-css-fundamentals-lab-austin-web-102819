@@ -25,4 +25,6 @@ nav a {
 
 figcaption {
   font-size: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
