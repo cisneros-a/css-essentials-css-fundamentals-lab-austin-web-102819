@@ -33,4 +33,5 @@ section#details {
 
 div {
   background-color: red;
+  float: left;
 }
