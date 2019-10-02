@@ -30,3 +30,7 @@ figcaption {
 section#details {
   display: block;
 }
+
+div {
+  background-color: red;
+}
