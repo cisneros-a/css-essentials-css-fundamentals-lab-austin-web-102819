@@ -15,7 +15,7 @@ section#featured-property {
 }
 
 nav a {
-  display: inline;
+  display: inline-block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
